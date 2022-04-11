@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://github.com/emotcdz/x",
+  "homepage": "https://github.com/emotcdz/tes",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
